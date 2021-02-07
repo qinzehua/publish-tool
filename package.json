@@ -1,0 +1,19 @@
+{
+  "name": "publisher-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.2.0",
+    "body-parser": "^1.19.0",
+    "chokidar": "^3.5.1",
+    "opn": "^6.0.0",
+    "querystring": "^0.2.0"
+  }
+}
